@@ -1,0 +1,7 @@
+What is String concatenation:
+    When we use the plus sign with String it's called String concatenation.
+Why we need it.
+    We can use it to attach two Strings together we can also use it to attach number and other data types
+    like ints.
+How we do it we do it by using plus sign
+    String str="james"+"Bond "+"007";

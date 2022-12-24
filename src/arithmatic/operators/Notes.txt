@@ -1,0 +1,21 @@
+What are Arithmetic operators:
+    Arithmetic operators are symbols(+,-,*,/,%,) that we use to perform basic math
+    operations like addition, multiplication, division and modulus operation.
+Why we need them.
+    When we build real life programs like a program that can automatically
+    perform testing of a website for us or a game, many times we need
+    to perform these basic math operations. we use these operators to perform
+    these basic calculation.
+How can we use Arithmetic operators:
+    We can use them to perform operations directly on numbers.
+    Like System.out.println(10+10) // 20, or we
+    can use them with variables we can print the results we can store
+    them in variables etc.
+
+Modulus operator:
+    It gives us remainder for example if we divide a number and number is
+    not completely divisible we will get the remainder part
+    lets do an example 5/2 answer is 1 and remainder is 1
+    you can also think about it there are 5 slices of pizza that you want
+    to divide between two friends completely how many pieces they will get
+    and how much will be left

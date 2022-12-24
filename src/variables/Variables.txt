@@ -1,0 +1,35 @@
+What are Variable?
+    Variables are containers or boxes in the memory that can hold different types of data
+     like numbers(10,120.5,1000), text("jack","new york","Bus"), characters('a','F',@,$,%)
+      and boolean(true,false) for us.
+Why we need Variables:
+     If we want a computer to do something for us for example play a video for us, open a browser,
+     draw something on the computer screen or build a software like  Google Chrome, Whatsapp,
+     or build a website like facebook or amazon or build games like pubg we need to store data
+     and instructions in a very organised way inside a computer than only computer can do all above
+     tasks for us. We use variables to store this data.
+How to create the variables(Java Syntax):
+    1) We need to tell the computer what type of box/container/variable we need this type depends on
+    what type of data we are going to store inside that box like numbers or text etc.
+    2) We need to give a name to the box so that whenever we need that data again we can tell the
+    name of the box to the computer, and it can bring the data from memory.
+Types of variables.
+    There are 8 basic types of variables.
+Boxes to store whole numbers(23,45,67,894,1000):
+    1)byte  ( smallest box to hold whole numbers can only put numbers from -128 to 127)
+    2)short (double the capacity of byte in terms of number of bits)
+    3)int (most famous for whole numbers can store up to billions)
+    4)long ( largest box to store whole numbers)
+Boxes to store decimal numbers(12.3, 45.5, 1.5,0.2,11110.45)
+    1)float( smallest box to hold decimal numbers)
+    2)double (double the capacity of float)
+Boxes to store characters('A','3','@','$')
+    1)char
+Boxes to store boolean(true,false) in computers true means yes and false means no.
+    1) boolean
+We also have some advance data types called non-primitive data types. These data types can hold
+complex information like complete sentences or paragraphs mixture of numbers letters and symbols.
+but Here we will only discuss one called String.
+Non-primitive:
+Boxes to store complex data.("Street #123","+1571-2333-3333")
+    1)String ( can hold all characters present on keyboard sequence of characters )
