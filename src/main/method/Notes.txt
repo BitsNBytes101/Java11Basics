@@ -1,0 +1,20 @@
+What is main method in java?
+    Main method is a special method in a
+    class from where java starts to execute the code.
+Why we need main method?
+    When we write code we can write code in so many classes. How to java knows
+    from where it should start executing the code it knows it from the main
+    method. Main method is the starting point. if we remove the main method
+    from  class we can't run that class. Think of main method as the main
+    door of the hours if it is not opened we can't enter the home.
+How to write main method?
+    In intellij we can use a shortcut we can simply type main and hit enter
+    or tab, and it will write a main method for us.
+Note:
+    For now write all of your java code in main if we write it outside the
+    main it might not work.Later on we will learn how to write code outside
+    of main as well
+Demo:
+    1)Create a main method.
+    2) Try deleting any components from main method, and you will notice it does
+    not work
