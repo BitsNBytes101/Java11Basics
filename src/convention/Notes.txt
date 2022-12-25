@@ -1,0 +1,34 @@
+What are Java Naming conventions?
+    Java Naming conventions are some set of rules that are recommended by the guys who
+    made java.
+Why do we need Java Naming conventions?
+    If we follow all the rules and all the Java conventions our code will look organized,
+    and it will be easy to read. We will also face fewer errors. Remember when you work as a
+    Java developer in most cases 70% of the time you are reading code written by others.
+    only 30 % of the time we write new code.
+Some java Conventions:
+    1) Name of the package should be in lowercase
+    2) First letters of all the words in a class name must be the upper case for example
+        I) FileDownloader
+        II) VariablesDemo
+        III) ArithmeticOperators
+   3) First letters of all the words of variables must be the upper case except the first word.
+        I) firstName
+        II) lastName
+        III) myAge
+What are Comments?
+    Comments are small notes that we can write with our code they are ignored
+    by Java.
+Why we need them?
+    Sometimes when we are working on something complex we can use comments
+    to leave explanations in some plan English so that later on if someone
+    reads our code they can understand it easily.
+How can we write comments?
+    There are two types of comments single line and multi-line
+    1) single Lines comments:
+        single line comments start with two forward slashes // they are
+        used if we need to write only one line of comment or note.
+    2) Multiple Line comments:
+        Multiline comments /**/ start with a forward slash start and start again
+        with a forward slash. They are used when we have to write multiple lines of
+        explanation.
