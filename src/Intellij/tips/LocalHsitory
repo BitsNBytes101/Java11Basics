@@ -1,0 +1,8 @@
+Intellij Local History:
+    Intellij local history is a great feature that can help us recover
+    deleted files it can also help us go back in time and see the snapshots
+    of our files.
+How to use LocalHistory feature:
+    we can right click on any package or or class to check its previous history.
+    we can also right click on a project to go back and check all of the previous
+    modifications that we have made in that project

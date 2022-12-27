@@ -1,0 +1,37 @@
+What is type casting?
+    Type casting is when we assign data of one type to another type.
+Why we need type casting?
+    Example 1:
+    Sometimes when we are doing calculations we might want to get rid of decimal
+    points for example when we convert the Fahrenheit to Celsius we might
+    let a lot of floating point numbers we can use type casting here to get
+    rid of them. (f-32)*5/9=c if  f=34 we will get c=1.1111 but if we do
+    c=(int) 1.111 we get c=1;
+    Example 2:
+    if we are using the code written by someone else we can use type casting
+    to make it compatible with our code.
+    Example 3: if we have used a wrong datatype in our code we can again use
+    type casting to get the results in proper data type instead of changing
+    all the data types in our code.
+How many types of typecasting do we have?
+    There are two types of type casting.
+    1) Widening/automatic/implicit
+    2) Narrowing/manual/explicit
+Widening/automatic/implicit:
+    in this type we try to assign a value from smaller data type to a larger
+    data type like from int to long. or from float to double or from short to
+    double.
+2) Narrowing/manual/explicit:
+    In this type of casting we try to assign values from bigger data types to
+    smaller data types like from int to byte or from double to float or from
+    long to byte.
+How to type cast?
+    Widening/automatic/implicit
+        we don't need to do anything special simply
+        assign the values, and it will work for example
+        int largerBox=23455;
+        int extraLargeBox=largeBox;
+    Narrowing/manual/explicit:
+        In narrowing we need to tell the java to which datatype we are trying to
+        convert it. For example double extraLargeBox=1222222.222222222222
+        float largeBox=(float)extraLargeBox;

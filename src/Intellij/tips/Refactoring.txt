@@ -1,0 +1,14 @@
+How To rename things in intellij:
+    1) Renaming a file
+        when renaming a file we have to follow a rule class names and file
+        names in java must be same if we change one other must match.
+        Because of this reason we can't simply change only one we must change both.
+    2) Renaming the project name:
+    When renaming a project  name we can't simply use refactor it only renames
+    the modules if we want to rename project name we need to go to project
+    structure and then rename project name
+    3) Renaming variables:
+    if we have created a variable name and if we have used it on many
+    places we can rename all the instances in one go.
+Delete project:
+Open the project and use file explorer to delete it.
