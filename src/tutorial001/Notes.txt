@@ -1,14 +1,14 @@
-What is programming?
-    programming is how we instruct a computer to do something for us for example.
+What is tutorial001?
+    tutorial001 is how we instruct a computer to do something for us for example.
 Why we need Programming?
-    We can use programming to build software programs like Google Chrome, Whatsapp, Websites like facebook
+    We can use tutorial001 to build software programs like Google Chrome, Whatsapp, Websites like facebook
     Amazon, we can build software programs that can drive cars. we can build games like Pubg. Almost every
     Electronic thing that we see around like microwave ovens, refrigerators, smart bands have some kind
     of software programs running in them that's how they work programs are like brains that control these things
     that I described above lik car smart band microwave evens etc.
 What is Java Programming language:
     Just like humans speak many languages like English, Spanish, Chinese, Arabic etc. Computers also speak
-    many computer programming languages Java is one of them, and it is a famous one just like English.
+    many computer tutorial001 languages Java is one of them, and it is a famous one just like English.
 Why Learn Java?
     More than 3 billion devices on Planet earth run on java.
     After learning java you will be able to build websites like facebook, amazon. softwares like

@@ -1,4 +1,4 @@
-package main.method;
+package tutorial004;
 
 public class VariablesNameDemo {
     public static void main(String[] args) {

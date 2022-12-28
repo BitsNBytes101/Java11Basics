@@ -1,4 +1,4 @@
-package convention;
+package tutorial005;
 
 public class CommentsDemo {
     public static void main(String[] args) {

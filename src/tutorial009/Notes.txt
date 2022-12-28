@@ -13,7 +13,7 @@ Why we need type casting?
     Example 3: if we have used a wrong datatype in our code we can again use
     type casting to get the results in proper data type instead of changing
     all the data types in our code.
-How many types of typecasting do we have?
+How many types of tutorial009 do we have?
     There are two types of type casting.
     1) Widening/automatic/implicit
     2) Narrowing/manual/explicit

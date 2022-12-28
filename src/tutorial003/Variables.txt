@@ -7,14 +7,14 @@ Why we need Variables:
      draw something on the computer screen or build a software like  Google Chrome, Whatsapp,
      or build a website like facebook or amazon or build games like pubg we need to store data
      and instructions in a very organised way inside a computer than only computer can do all above
-     tasks for us. We use variables to store this data.
-How to create the variables(Java Syntax):
+     tasks for us. We use tutorial003 to store this data.
+How to create the tutorial003(Java Syntax):
     1) We need to tell the computer what type of box/container/variable we need this type depends on
     what type of data we are going to store inside that box like numbers or text etc.
     2) We need to give a name to the box so that whenever we need that data again we can tell the
     name of the box to the computer, and it can bring the data from memory.
-Types of variables.
-    There are 8 basic types of variables.
+Types of tutorial003.
+    There are 8 basic types of tutorial003.
 Boxes to store whole numbers(23,45,67,894,1000):
     1)byte  ( smallest box to hold whole numbers can only put numbers from -128 to 127)
     2)short (double the capacity of byte in terms of number of bits)

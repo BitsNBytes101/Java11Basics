@@ -1,4 +1,4 @@
-package shorthand.operator;
+package tutorial008.operator;
 
 public class ShortHandDemo1 {
     public static void main(String[] args) {

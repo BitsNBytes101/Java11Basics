@@ -1,15 +1,15 @@
-What are shorthand operators?
+What are tutorial008 operators?
     ShortHand Operators are some symbols that we can use to perform some
     calculations quickly just like we use shortcuts on out computers to do the same
     thing quickly.
 Why we should use Shorthand Operators?
-    If we use shorthand operators we can save a lot of time and storage by
+    If we use tutorial008 operators we can save a lot of time and storage by
     writing less code.
 How to use ?
     let's say we have a variable that has some value in it for example
     int myNumber=10, and we want to add 10 more to it one way of doing it is
     myNumber=myNumber+10; pick previous value of x add 10 to it and store it back in 10
-    but if we use a shorthand operator instead it will look something like this
+    but if we use a tutorial008 operator instead it will look something like this
     myNumber+=10; as you can see we don't need to type the variable name twice if
     we use shortHand operator.
 

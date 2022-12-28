@@ -12,7 +12,7 @@ Some java Conventions:
         I) FileDownloader
         II) VariablesDemo
         III) ArithmeticOperators
-   3) First letters of all the words of variables must be the upper case except the first word.
+   3) First letters of all the words of tutorial003 must be the upper case except the first word.
         I) firstName
         II) lastName
         III) myAge

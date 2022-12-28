@@ -1,0 +1,14 @@
+What are if conditions in java:
+    if conditions are used to implement decision-making in code just like we
+    humans take a lot of decisions in our life based on many conditions
+    we use these if conditions in code so that the computer programs can
+    also take decision like us.
+Why we should learn if conditions.
+    With the help of if conditions the programs that we write
+    can take decisions just like us, and we can write intelligent programs
+    for example program automatically checks what time it is a sends a email
+    or checks a website and if logo is present says logo is present
+How to use if else conditions:
+    for if or if else conditions to work we need to understand what are
+    conditions and how they work.
+

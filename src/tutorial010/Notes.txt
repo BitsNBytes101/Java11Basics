@@ -1,0 +1,23 @@
+What are relational operators?
+    Relational operators are used to compare two values
+    from same data type for example if one number is greater than
+    or not if two boolean values are same or not.
+Below are some Relational operators:
+    x==y checks if x and y are same if yes returns true otherwise false
+    x!=y called not equal to returns true if x and y are not equal otherwise false
+    x>y true if x is greater than y otherwise false
+    x<y true if x is less than y otherwise true
+    x>=y checks two conditions x>y or x==y anyone is true result is true both
+         are false result is false
+
+    x<=y opposite of >= checks two conditions x<y or x==y any one is true result is true
+Why we need Relational operators?
+    Relational operators are used in decision-making using if else conditions,
+    without them, we can't compare data and can't make our programs to take decisions.
+    for example if hard-disk is full show an error and not allow more data
+    if internet is not available display a message check internet connections
+    if date is equal to DOB show happy birthday
+how to use relational operators?
+place the data and relational operator nineteen, and it will return a boolean true or
+false
+Note: output of applying relational operator is always a boolean true or false.

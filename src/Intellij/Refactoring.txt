@@ -7,7 +7,7 @@ How To rename things in intellij:
     When renaming a project  name we can't simply use refactor it only renames
     the modules if we want to rename project name we need to go to project
     structure and then rename project name
-    3) Renaming variables:
+    3) Renaming tutorial003:
     if we have created a variable name and if we have used it on many
     places we can rename all the instances in one go.
 Delete project:

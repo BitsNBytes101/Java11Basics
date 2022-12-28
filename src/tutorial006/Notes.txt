@@ -9,8 +9,8 @@ Why we need them.
 How can we use Arithmetic operators:
     We can use them to perform operations directly on numbers.
     Like System.out.println(10+10) // 20, or we
-    can use them with variables we can print the results we can store
-    them in variables etc.
+    can use them with tutorial003 we can print the results we can store
+    them in tutorial003 etc.
 
 Modulus operator:
     It gives us remainder for example if we divide a number and number is
