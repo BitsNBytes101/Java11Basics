@@ -1,0 +1,7 @@
+What are Nested If conditions:
+    When one if condition is present inside another if condition it is called as
+    nested if condition.
+Why we should learn About Nested if conditions:
+    Nested if conditions help us prioritize one condition over the other
+    for example you are making a decision based on three conditions we can
+    put most important condition outside and other conditions inside.

@@ -1,0 +1,40 @@
+Important Note:
+This video is going to be very basic
+covering only how to debug simple programs if you are looking for advance
+debugging please watch part2 of this video. It includes conditional breakpoints
+How to debug multithreaded code. Method calls and more.
+
+What is debugging?
+    It's the process of identifying and removing issues from your code.
+    But it is also done for other reasons as well for example to understand
+    how code works.
+
+Why we should debug our code?
+    Debugging can save us a lot of time instead of guessing why code generates
+    a specific output or why programs follows a specific flow we can debug it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

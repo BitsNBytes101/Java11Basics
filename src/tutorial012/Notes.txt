@@ -1,0 +1,16 @@
+What are if-else-if conditions:
+    if-else-if conditions are used to perform multiple actions based on multiple
+    conditions.
+why we should use if-else-if conditions?
+    whenever we have to perform multiple different operations based on different conditions we use
+    if-else-if conditions for example based on the day number print day name here day variable can
+    have 7 different values, and we have to generate 7 different outputs this can be easily done with
+    if-else-if conditions.
+How to use if-else-if conditions
+    we use the below syntax to write an if-else-if conditions
+    if(condition){
+    action that we want to perform if condition is true
+    }else if(next conditions){
+     action that we want to perform if this condition is true
+    }
+
